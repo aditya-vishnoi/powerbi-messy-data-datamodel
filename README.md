@@ -52,3 +52,5 @@ fact_campaign_spend, fact_promotion_coverage
 This is practice/course data, not a real production dataset. The focus
 of this project is the modeling and cleanup process, not the business
 conclusions.
+
+![Star Schema Data Model](screenshots/star_schema.png)
